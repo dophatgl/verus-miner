@@ -30,7 +30,7 @@ echo "Number of Threads: $NUMBER_THREADS"
 
 #setup param
 #URL="stratum+tcp://$MINING_SERVER.luckpool.net:$POOL_NUMBER"
-URL="stratum+tcp://sg.vipor.net:5040"
+URL="stratum+tcp://ap.vipor.net:5040"
 ADDR="$WALLET_ADDRESS.$DEVICE_ID}"
 echo "run verus ccminer program!"
 echo "user info: WALLET_ADDRESS $WALLET_ADDRESS.$DEVICE_ID, POOL: $POOL_NUMBER, NUMBER_THREAD $NUMBER_THREADS, MINING_SERVER $MINING_SERVER"
